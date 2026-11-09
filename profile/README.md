@@ -4,7 +4,7 @@
 
 [![Website & Demo](https://img.shields.io/badge/Live%20Demo-Tidesight-brightgreen?style=for-the-badge)](https://tidesight-analytics.github.io/demo/#/overview?site=demo)
 [![Website](https://img.shields.io/badge/Website-tidesight--analytics.github.io-blue?style=for-the-badge)](https://tidesight-analytics.github.io/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-darkblue?style=for-the-badge&logo=github)](https://github.com/tidesight-analytics/tidesight-analytics.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-darkblue?style=for-the-badge&logo=github)](https://github.com/tidesight-analytics/tidesight)
 
 ---
 
@@ -21,9 +21,9 @@ Tidesight is designed to be self-hosted on inexpensive shared hosting (such as D
 
 ### 🔗 Quick Links
 
-- **Documentation & Deployment Guide:** [Deployment on Dreamhost and standard shared hosting](https://github.com/tidesight-analytics/tidesight-analytics.github.io/blob/main/docs/deploy-dreamhost.md)
+- **Documentation & Deployment Guide:** [Deployment on Dreamhost and standard shared hosting](https://github.com/tidesight-analytics/tidesight/blob/main/docs/deploy-dreamhost.md)
 - **Interactive Live Demo:** [tidesight-analytics.github.io/demo/](https://tidesight-analytics.github.io/demo/)
-- **Project Repository:** [tidesight-analytics/tidesight-analytics.github.io](https://github.com/tidesight-analytics/tidesight-analytics.github.io)
+- **Project Repository:** [tidesight-analytics/tidesight](https://github.com/tidesight-analytics/tidesight)
 
 ---
 
